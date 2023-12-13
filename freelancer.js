@@ -1,4 +1,4 @@
-const freelancers = document.getElementById("freelancers");
+const freelancers = document.querySelector("#freelancers");
 freelancers.style.width = "80%";
 freelancers.style.margin = "0 auto";
 
